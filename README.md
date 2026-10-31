@@ -112,7 +112,7 @@ Os testes utilizados no projeto estão documentados em [`resultados/testes.md`](
 
 ## Integrantes
 
-- Caio Gabriel Araujo Alves
+- Caio Gabriel
 - Leonardo Enzo
 
 ## Observação
